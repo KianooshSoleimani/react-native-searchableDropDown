@@ -1,0 +1,26 @@
+{
+  "name": "react-native-dropdown-searchable",
+  "version": "1.0.0",
+  "description": "dropdown list and search on it with flatlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KianooshSoleimani/react-native-searchableDropDown.git"
+  },
+  "keywords": [
+    "searching dropdown",
+    "dropdown searchable",
+    "react-native-searchableDropDown",
+    "dropdown flatlist",
+    "searchable flatlist"
+  ],
+  "author": "KianooshSoleimani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KianooshSoleimani/react-native-searchableDropDown/issues"
+  },
+  "homepage": "https://github.com/KianooshSoleimani/react-native-searchableDropDown#readme"
+}
