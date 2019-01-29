@@ -8,7 +8,7 @@ a list of item with flatlist you can search on it and use one of them like dropd
 
 ## Installation
 
-$ npm install react-native-searchableDropDown --save
+$ npm install react-native-dropdown-searchable --save
 
 ## Quick Start
 
