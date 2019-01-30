@@ -6,7 +6,7 @@ a list of item with flatlist you can search on it and use one of them like dropd
 
 - simple flatlist dropdown searchable
 
-![alt img](test.gif)
+![alt img](test.gif = 250*250)
 
 ## Installation
 
