@@ -1,4 +1,3 @@
-Sure, I'd be happy to help you create a README file for the React Native Searchable Dropdown project. Here is an example README file you can use as a starting point:
 
 # React Native Searchable Dropdown
 
